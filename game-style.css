@@ -120,16 +120,16 @@
         height: max-content; 
         gap: 10px;
         padding: 0px 0px 0px 0px;
-        margin: auto; 
     }
 
     .main-frame-img{
-        width: 70%;
+        width: 100%;
         height: auto;
+        margin: 15px; 
     }
 
     .answer-btn-grp{
-        width: 380px;  
+        width: 380px;
         height: 50%;
 
         flex-direction: row;

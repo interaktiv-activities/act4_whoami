@@ -30,10 +30,6 @@ body{
     align-items: center;
 }
 
-b{
-    color: #E4BD78;
-}
-
 /* START SCREEN ELEMENTS */
 .start-screen{
     display: flex;
@@ -137,7 +133,7 @@ b{
     font-family: Akura;
     color: #E4BD78;
     text-shadow: 0 0 5px #E4BD78;
-    font-size: 64px;
+    font-size: 72px;
     text-align: center;
 }
 
@@ -145,7 +141,7 @@ b{
     font-family: Arvo;
     font-weight: bold;
     color: #FFF;
-    font-size: 18px;
+    font-size: 24px;
     margin: 10px 0px 0px 0px;
     text-align: center;
     width: 700px;
@@ -159,7 +155,8 @@ b{
 }
 
 .token-img{
-    height: 300px
+    height: 400px;
+    width: 400px;
 }
 
 .menu-btn:hover{
@@ -294,7 +291,8 @@ b{
     }
     
     .token-img{
-        height: 250px;
+        height: 300px;
+        width: 300px;
     }
 }
 
@@ -392,5 +390,6 @@ b{
     
     .token-img{
         height: 200px;
+        width: 200px;
     }
 }
