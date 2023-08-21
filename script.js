@@ -84,7 +84,7 @@ let questionBank =[
         "ITEMS/3.png"
     ],
     [
-        ["Course Homepage", true],
+        ["BigSky Homepage", true],
         ["BigSky Account Settings", false],
         ["Student Information System Flowcharts", false],
         ["Benilde Mail", false],
